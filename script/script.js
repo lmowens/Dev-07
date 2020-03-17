@@ -25,7 +25,7 @@ function setTextContentById(getId, setText) {
 }
 
 function initiateVars() {
-  hello = "Howdy ";
+  greeting = "Howdy ";
   name = "Molly";
   message = ", please check your order:";
   welcome = greeting + name + message;
